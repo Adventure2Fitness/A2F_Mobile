@@ -1,0 +1,11 @@
+iOS/Adventure2Fitness/Adventure2Fitness/Intro.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Atlantis[[:space:]]Aquaventure.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Big[[:space:]]Bad[[:space:]]Apple.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Chinese[[:space:]]Challenge.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Atlantis[[:space:]]Aquaventure.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Dino[[:space:]]Disaster.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Serengeti[[:space:]]Stampede.m4v filter=lfs diff=lfs merge=lfs -text
+and filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Ox[[:space:]]Tails,[[:space:]]Rails[[:space:]]and[[:space:]]Egyptian[[:space:]]Trails.m4v filter=lfs diff=lfs merge=lfs -text
+iOS/Adventure2Fitness/Adventure2Fitness/Les[[:space:]]Pie[[:space:]]Rats[[:space:]]of[[:space:]]the[[:space:]]Caribbean.m4v filter=lfs diff=lfs merge=lfs -text
+*.m4v filter=lfs diff=lfs merge=lfs -text
