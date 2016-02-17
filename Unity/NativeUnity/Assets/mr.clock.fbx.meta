@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 41b51615dafbf48b1bf54bc748c9cb7d
+timeCreated: 1453303074
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: BezierCurve.001
+    100004: BezierCurve.002
+    100006: Body
+    100008: Camera
+    100010: Eyebrows
+    100012: EyeL
+    100014: Eyelashes
+    100016: EyeR
+    100018: HandL
+    100020: HandS
+    100022: Lamp
+    100024: //RootNode
+    100026: Nose
+    100028: Smile
+    100030: Ticks
+    100032: WingL
+    100034: WingL.001
+    400000: BezierCurve
+    400002: BezierCurve.001
+    400004: BezierCurve.002
+    400006: Body
+    400008: Camera
+    400010: Eyebrows
+    400012: EyeL
+    400014: Eyelashes
+    400016: EyeR
+    400018: HandL
+    400020: HandS
+    400022: Lamp
+    400024: //RootNode
+    400026: Nose
+    400028: Smile
+    400030: Ticks
+    400032: WingL
+    400034: WingL.001
+    2300000: BezierCurve
+    2300002: BezierCurve.001
+    2300004: BezierCurve.002
+    2300006: Body
+    2300008: Eyebrows
+    2300010: EyeL
+    2300012: Eyelashes
+    2300014: EyeR
+    2300016: HandL
+    2300018: HandS
+    2300020: Nose
+    2300022: Smile
+    2300024: Ticks
+    2300026: WingL
+    2300028: WingL.001
+    3300000: BezierCurve
+    3300002: BezierCurve.001
+    3300004: BezierCurve.002
+    3300006: Body
+    3300008: Eyebrows
+    3300010: EyeL
+    3300012: Eyelashes
+    3300014: EyeR
+    3300016: HandL
+    3300018: HandS
+    3300020: Nose
+    3300022: Smile
+    3300024: Ticks
+    3300026: WingL
+    3300028: WingL.001
+    4300000: WingL.001
+    4300002: BezierCurve.002
+    4300004: BezierCurve.001
+    4300006: BezierCurve
+    4300008: WingL
+    4300010: HandS
+    4300012: HandL
+    4300014: Ticks
+    4300016: Eyebrows
+    4300018: Eyelashes
+    4300020: EyeR
+    4300022: EyeL
+    4300024: Nose
+    4300026: Smile
+    4300028: Body
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
