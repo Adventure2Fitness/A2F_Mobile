@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags Adventure2Fitness
+face eyebrows-trans-depth-less-more 0.018000
+face eyebrows-angle-up-down -0.080000
+face eyebrows-trans-vert-less-more -0.620000
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.699000
+macro Gender 1.000000
+macro Age 0.500000
+macro Height 0.509000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.926000
+macro BodyProportions 0.515000
+background enabled False
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/blue.mhmat
+skeleton basic.json
+subdivide False
